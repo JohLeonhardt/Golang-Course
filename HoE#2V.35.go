@@ -12,7 +12,7 @@ func main() {
 	fmt.Println(x)
 	fmt.Println(y)
 	fmt.Println(z)
-	//Q: The compiler assigned values to the
-	//variables. What are these values called?
+	//Q: The compiler ass
+	// these values called?
 	//A: They are called zero vales.
 }
