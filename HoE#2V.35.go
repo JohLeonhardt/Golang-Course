@@ -14,5 +14,5 @@ func main() {
 	fmt.Println(z)
 	//Q: The compiler ass
 	// these values called?
-	//A: They are called zero vales.
+	//A: They are called zero vales. :)
 }
