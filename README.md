@@ -93,3 +93,16 @@ j.	!=
 k.	<
 l.	>
 Now print each of the variables. 
+
+---------------------
+
+QUESTION: 8
+Hands-on exercise #8 - Video .50
+Create TYPED and UNTYPED constants. Print the values of the constants.
+
+//Type & untyped constants Explanations:
+//Constants may be typed or untyped. 
+//Literal constants, true, false, iota, 
+//and certain constant expressions 
+//containing only untyped constant 
+//operands are untyped.
