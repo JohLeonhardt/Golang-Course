@@ -1,6 +1,6 @@
 # Golang-Course
 
-QUESTION: 1
+N. Level 1 - QUESTION: 1
 Hands-on exercise #1 - Video .34
 1.	Using the short declaration operator, ASSIGN these VALUES to VARIABLES with the IDENTIFIERS “x” and “y” and “z”
 a.	42
@@ -12,7 +12,7 @@ b.	multiple print statements
 
 -----------
 
-QUESTION: 2
+N. Level 1 - QUESTION: 2
 Hands-on exercise #2 - Video .35
 1.	Use var to DECLARE three VARIABLES. The variables should have package level scope. Do not assign VALUES to the variables. Use the following IDENTIFIERS for the variables and make sure the variables are of the following TYPE (meaning they can store VALUES of that TYPE).
 a.	identifier “x” type int
@@ -24,7 +24,7 @@ b.	The compiler assigned values to the variables. What are these values called?
 
 -------------
 
-QUESTION: 3
+N. Level 1 - QUESTION: 3
 Hands-on exercise #3 - Video .36
 Using the code from the previous exercise,
 1.	At the package level scope, assign the following values to the three variables
@@ -37,7 +37,7 @@ b.	print out the value stored by variable “s”
 
 ---------------
 
-QUESTION: 4
+N. Level 1 - QUESTION: 4
 Hands-on exercise #4 - Video .37
 ●	FYI - nice documentation and new terminology “underlying type”
 ○	https://golang.org/ref/spec#Types 
@@ -52,7 +52,7 @@ d.	print out the value of the variable “x”
 
 ---------------
 
-QUESTION: 5
+N. Level 1 - QUESTION: 5
 Hands-on exercise #5 - Video .38
 Building on the code from the previous example
 1.	at the package level scope, using the “var” keyword, create a VARIABLE with the IDENTIFIER “y”. The variable should be of the UNDERLYING TYPE of your custom TYPE “x”
@@ -77,13 +77,13 @@ Building on the code from the previous example
 
 -------------
 
-QUESTION: 6
+N. Level 2 - QUESTION: 1
 Hands-on exercise #6 - Video .48
 Write a program that prints a number in decimal, binary, and hex
 
 --------------
 
-QUESTION: 7
+N. Level 2 - QUESTION: 2
 Hands-on exercise #7 - Video .49
 Using the following operators, write expressions and assign their values to variables:
 g.	==
@@ -96,7 +96,7 @@ Now print each of the variables.
 
 ---------------------
 
-QUESTION: 8
+N. Level 2 - QUESTION: 3
 Hands-on exercise #8 - Video .50
 Create TYPED and UNTYPED constants. Print the values of the constants.
 
@@ -106,3 +106,13 @@ Create TYPED and UNTYPED constants. Print the values of the constants.
 //and certain constant expressions 
 //containing only untyped constant 
 //operands are untyped.
+
+-----------------------
+
+N. Level 2 - QUESTION: 4
+Hands-on exercise #9 - Video .51
+Write a program that 
+●	assigns an int to a variable
+●	prints that int in decimal, binary, and hex
+●	shifts the bits of that int over 1 position to the left, and assigns that to a variable
+●	prints that variable in decimal, binary, and hex
