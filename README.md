@@ -76,3 +76,9 @@ Building on the code from the previous example
 3.	print out the type of “y”
 
 -------------
+
+QUESTION: 6
+Hands-on exercise #6 - Video .48
+Write a program that prints a number in decimal, binary, and hex
+
+--------------
