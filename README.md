@@ -82,3 +82,14 @@ Hands-on exercise #6 - Video .48
 Write a program that prints a number in decimal, binary, and hex
 
 --------------
+
+QUESTION: 7
+Hands-on exercise #7 - Video .49
+Using the following operators, write expressions and assign their values to variables:
+g.	==
+h.	<=
+i.	>=
+j.	!=
+k.	<
+l.	>
+Now print each of the variables. 
