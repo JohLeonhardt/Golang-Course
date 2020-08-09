@@ -186,3 +186,14 @@ Hands-on exercise #14 - Video .69
 ●	for condition { }
 Have it print out the years you have been alive.
 
+-------------------
+
+N. Level 3 - QUESTION: 4
+HoE#15V.70.go
+Hands-on exercise #15 - Video .70
+
+Create a for loop using this syntax
+●	for { }
+Have it print out the years you have been alive.
+
+
