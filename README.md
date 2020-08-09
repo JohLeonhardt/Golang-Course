@@ -139,3 +139,11 @@ N. Level 2 - QUESTION: 6
 HoE#11V.53.go
 Hands-on exercise #11 - Video .53
 Using iota, create 4 constants for the NEXT 4 years. Print the constant values.
+
+----------------------
+
+N. Level 3 - QUESTION: 1
+HoE#12V.67.go
+Hands-on exercise #12 - Video .67
+Print every number from 1 to 10,000
+
