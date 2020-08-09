@@ -3,6 +3,7 @@
 N. Level 1 - QUESTION: 1
 HoE#1V.34.go
 Hands-on exercise #1 - Video .34
+
 1.	Using the short declaration operator, ASSIGN these VALUES to VARIABLES with the IDENTIFIERS “x” and “y” and “z”
 a.	42
 b.	“James Bond”
@@ -16,6 +17,7 @@ b.	multiple print statements
 N. Level 1 - QUESTION: 2
 HoE#2V.35.go
 Hands-on exercise #2 - Video .35
+
 1.	Use var to DECLARE three VARIABLES. The variables should have package level scope. Do not assign VALUES to the variables. Use the following IDENTIFIERS for the variables and make sure the variables are of the following TYPE (meaning they can store VALUES of that TYPE).
 a.	identifier “x” type int
 b.	identifier “y” type string
@@ -29,6 +31,7 @@ b.	The compiler assigned values to the variables. What are these values called?
 N. Level 1 - QUESTION: 3
 HoE#3V.36.go
 Hands-on exercise #3 - Video .36
+
 Using the code from the previous exercise,
 1.	At the package level scope, assign the following values to the three variables
 a.	for x assign 42
@@ -43,6 +46,7 @@ b.	print out the value stored by variable “s”
 N. Level 1 - QUESTION: 4
 HoE#4V.37.go
 Hands-on exercise #4 - Video .37
+
 ●	FYI - nice documentation and new terminology “underlying type”
 ○	https://golang.org/ref/spec#Types 
 For this exercise
@@ -59,6 +63,7 @@ d.	print out the value of the variable “x”
 N. Level 1 - QUESTION: 5
 HoE#5V.38.go
 Hands-on exercise #5 - Video .38
+
 Building on the code from the previous example
 1.	at the package level scope, using the “var” keyword, create a VARIABLE with the IDENTIFIER “y”. The variable should be of the UNDERLYING TYPE of your custom TYPE “x”
 
@@ -85,6 +90,7 @@ Building on the code from the previous example
 N. Level 2 - QUESTION: 1
 HoE#6V.48.go
 Hands-on exercise #6 - Video .48
+
 Write a program that prints a number in decimal, binary, and hex
 
 --------------
@@ -92,6 +98,7 @@ Write a program that prints a number in decimal, binary, and hex
 N. Level 2 - QUESTION: 2
 HoE#7V.49.go
 Hands-on exercise #7 - Video .49
+
 Using the following operators, write expressions and assign their values to variables:
 g.	==
 h.	<=
@@ -106,6 +113,7 @@ Now print each of the variables.
 N. Level 2 - QUESTION: 3
 HoE#8V.50.go
 Hands-on exercise #8 - Video .50
+
 Create TYPED and UNTYPED constants. Print the values of the constants.
 
 //Type & untyped constants Explanations:
@@ -120,6 +128,7 @@ Create TYPED and UNTYPED constants. Print the values of the constants.
 N. Level 2 - QUESTION: 4
 HoE#9V.51.go
 Hands-on exercise #9 - Video .51
+
 Write a program that 
 ●	assigns an int to a variable
 ●	prints that int in decimal, binary, and hex
@@ -131,6 +140,7 @@ Write a program that
 N. Level 2 - QUESTION: 5
 HoE#10V.52.go
 Hands-on exercise #10 - Video .52
+
 Create a variable of type string using a raw string literal. Print it.
 
 ---------------------
@@ -138,6 +148,7 @@ Create a variable of type string using a raw string literal. Print it.
 N. Level 2 - QUESTION: 6
 HoE#11V.53.go
 Hands-on exercise #11 - Video .53
+
 Using iota, create 4 constants for the NEXT 4 years. Print the constant values.
 
 ----------------------
@@ -145,5 +156,33 @@ Using iota, create 4 constants for the NEXT 4 years. Print the constant values.
 N. Level 3 - QUESTION: 1
 HoE#12V.67.go
 Hands-on exercise #12 - Video .67
+
 Print every number from 1 to 10,000
+
+----------------------
+
+N. Level 3 - QUESTION: 2
+HoE#13V.68.go
+Hands-on exercise #13 - Video .68
+
+Print every rune code point of the uppercase alphabet three times. Your output should look like this:
+65
+	U+0041 'A'
+	U+0041 'A'
+  U+0041 'A'
+66
+	U+0042 'B'
+	U+0042 'B'
+	U+0042 'B' 
+ … through the rest of the alphabet characters
+
+ ------------------
+
+N. Level 3 - QUESTION: 3
+HoE#14V.69.go
+Hands-on exercise #14 - Video .69
+
+ Create a for loop using this syntax
+●	for condition { }
+Have it print out the years you have been alive.
 
