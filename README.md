@@ -227,3 +227,13 @@ HoE#19V.74.go
 Hands-on exercise #19 - Video .74
 
 Create a program that uses a switch statement with no switch expression specified.
+
+-------------------
+
+N. Level 3 - QUESTION: 9
+HoE#20V.75.go
+Hands-on exercise #20 - Video .75
+
+Create a program that uses a switch statement with the switch expression specified as a variable of TYPE string with the IDENTIFIER “favSport”
+
+--------------------
