@@ -211,3 +211,11 @@ HoE#17V.72.go
 Hands-on exercise #17 - Video .72
 
 Create a program that shows the “if statement” in action.
+
+--------------------
+
+N. Level 3 - QUESTION: 7
+HoE#18V.73.go
+Hands-on exercise #18 - Video .73
+
+Building on the previous hands-on exercise, create a program that uses “else if” and “else”.
