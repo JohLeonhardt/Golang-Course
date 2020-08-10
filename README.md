@@ -196,4 +196,12 @@ Create a for loop using this syntax
 ●	for { }
 Have it print out the years you have been alive.
 
+---------------------
 
+N. Level 3 - QUESTION: 5
+HoE#16V.71.go
+Hands-on exercise #16 - Video .71
+
+Print out the remainder (modulus) which is found for each number between 10 and 100 when it is divided by 4.
+
+--------------------
