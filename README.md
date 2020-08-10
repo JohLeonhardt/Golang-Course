@@ -219,3 +219,11 @@ HoE#18V.73.go
 Hands-on exercise #18 - Video .73
 
 Building on the previous hands-on exercise, create a program that uses “else if” and “else”.
+
+--------------------
+
+N. Level 3 - QUESTION: 8
+HoE#19V.74.go
+Hands-on exercise #19 - Video .74
+
+Create a program that uses a switch statement with no switch expression specified.
