@@ -237,3 +237,14 @@ Hands-on exercise #20 - Video .75
 Create a program that uses a switch statement with the switch expression specified as a variable of TYPE string with the IDENTIFIER “favSport”
 
 --------------------
+
+N. Level 3 - QUESTION: 10
+HoE#21V.76.go
+Hands-on exercise #21 - Video .76
+
+Write down what these print:
+●	fmt.Println(true && true) 
+●	fmt.Println(true && false) 
+●	fmt.Println(true || true) 
+●	fmt.Println(true || false) 
+●	fmt.Println(!true)
