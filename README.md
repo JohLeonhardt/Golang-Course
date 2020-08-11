@@ -275,3 +275,14 @@ Hands-on exercise #23 - Video .89
 ●	Using format printing
   ○	print out the TYPE of the slice
 
+---------------------
+
+N. Level 4 - QUESTION: 3
+HoE#24V.90.go
+Hands-on exercise #24 - Video .90
+
+Using the code from the previous example, use SLICING to create the following new slices which are then printed:
+●	[42 43 44 45 46]
+●	[47 48 49 50 51]
+●	[44 45 46 47 48]
+●	[43 44 45 46 47]
