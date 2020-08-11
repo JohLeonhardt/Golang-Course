@@ -264,3 +264,14 @@ Hands-on exercise #22 - Video .88
 
 ---------------------
 
+N. Level 4 - QUESTION: 2
+HoE#23V.89.go
+Hands-on exercise #23 - Video .89
+
+●	Using a COMPOSITE LITERAL: 
+  ○	 create a SLICE of TYPE int
+  ○	 assign 10 VALUES 
+●	Range over the slice and print the values out. 
+●	Using format printing
+  ○	print out the TYPE of the slice
+
