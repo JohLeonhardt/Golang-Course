@@ -248,3 +248,16 @@ Write down what these print:
 ●	fmt.Println(true || true) 
 ●	fmt.Println(true || false) 
 ●	fmt.Println(!true)
+
+-------------------
+
+N. Level 4 - QUESTION: 1
+HoE#22V.88.go
+Hands-on exercise #22 - Video .88
+
+●	Using a COMPOSITE LITERAL: 
+    ○	create an ARRAY which holds 5 VALUES of TYPE int
+    ○	assign VALUES to each index position. 
+●	Range over the array and print the values out. 
+●	Using format printing
+    ○	print out the TYPE of the array
