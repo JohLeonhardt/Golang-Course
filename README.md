@@ -261,3 +261,6 @@ Hands-on exercise #22 - Video .88
 ●	Range over the array and print the values out. 
 ●	Using format printing
     ○	print out the TYPE of the array
+
+---------------------
+
