@@ -307,3 +307,17 @@ Follow these steps:
 ●	append to the slice this slice
   ○	y := []int{56, 57, 58, 59, 60}
 ●	print out the slice
+
+---------------------
+
+N. Level 4 - QUESTION: 5
+HoE#26V.92.go
+Hands-on exercise #26 - Video .92
+
+To DELETE from a slice, we use APPEND along with SLICING. For this hands-on exercise, follow these steps:
+●	start with this slice
+  ○	x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
+●	use APPEND & SLICING to get these values here which you should ASSIGN to a variable “y” and then print:
+  ○	[42, 43, 44, 48, 49, 50, 51]
+
+NOTE: This "y" is not in the correct solution not sure why. Also he added another Print out frst. He looked tired in the video :)
