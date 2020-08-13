@@ -342,3 +342,13 @@ Here is a list of the states:
 
 ----------------------
 
+N. Level 4 - QUESTION: 7
+HoE#28V.94.go
+Hands-on exercise #28 - Video .94
+
+Create a slice of a slice of string ([][]string). Store the following data in the multi-dimensional slice:
+
+"James", "Bond", "Shaken, not stirred"
+"Miss", "Moneypenny", "Helloooooo, James."
+
+Range over the records, then range over the data in each record.
