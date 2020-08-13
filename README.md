@@ -321,3 +321,24 @@ To DELETE from a slice, we use APPEND along with SLICING. For this hands-on exer
   ○	[42, 43, 44, 48, 49, 50, 51]
 
 NOTE: This "y" is not in the correct solution not sure why. Also he added another Print out frst. He looked tired in the video :)
+
+----------------------
+
+N. Level 4 - QUESTION: 6
+HoE#27V.93.go
+Hands-on exercise #27 - Video .93
+
+● Create a slice to store the names of all of the states in the United States of America. 
+
+● What is the length of your slice? 
+
+● What is the capacity? 
+
+● Print out all of the values, along with their index position in the slice, without using the range clause. 
+
+Here is a list of the states:
+
+` Alabama`, ` Alaska`, ` Arizona`, ` Arkansas`, ` California`, ` Colorado`, ` Connecticut`, ` Delaware`, ` Florida`, ` Georgia`, ` Hawaii`, ` Idaho`, ` Illinois`, ` Indiana`, ` Iowa`, ` Kansas`, ` Kentucky`, ` Louisiana`, ` Maine`, ` Maryland`, ` Massachusetts`, ` Michigan`, ` Minnesota`, ` Mississippi`, ` Missouri`, ` Montana`, ` Nebraska`, ` Nevada`, ` New Hampshire`, ` New Jersey`, ` New Mexico`, ` New York`, ` North Carolina`, ` North Dakota`, ` Ohio`, ` Oklahoma`, ` Oregon`, ` Pennsylvania`, ` Rhode Island`, ` South Carolina`, ` South Dakota`, ` Tennessee`, ` Texas`, ` Utah`, ` Vermont`, ` Virginia`, ` Washington`, ` West Virginia`, ` Wisconsin`, ` Wyoming`, 
+
+----------------------
+
