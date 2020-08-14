@@ -364,3 +364,11 @@ Create a map with a key of TYPE string which is a person’s “last_first” na
 	`bond_james`, `Shaken, not stirred`, `Martinis`, `Women`
 `moneypenny_miss`, `James Bond`, `Literature`, `Computer Science`
 `no_dr`, `Being evil`, `Ice cream`, `Sunsets`
+
+--------------------
+
+N. Level 4 - QUESTION: 9
+HoE#30V.96.go
+Hands-on exercise #30 - Video .96
+
+Using the code from the previous example, add a record to your map. Now print the map out using the “range” loop
