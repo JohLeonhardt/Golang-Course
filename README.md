@@ -1,4 +1,6 @@
 # Golang-Course
+------------------
+------------------
 
 N. Level 1 - QUESTION: 1
 HoE#1V.34.go
@@ -85,7 +87,8 @@ Building on the code from the previous example
 2.	print out the value stored in “y”
 3.	print out the type of “y”
 
--------------
+------------------
+------------------
 
 N. Level 2 - QUESTION: 1
 HoE#6V.48.go
@@ -151,6 +154,7 @@ Hands-on exercise #11 - Video .53
 
 Using iota, create 4 constants for the NEXT 4 years. Print the constant values.
 
+----------------------
 ----------------------
 
 N. Level 3 - QUESTION: 1
@@ -249,6 +253,7 @@ Write down what these print:
 ●	fmt.Println(true || false) 
 ●	fmt.Println(!true)
 
+-------------------
 -------------------
 
 N. Level 4 - QUESTION: 1
@@ -380,3 +385,16 @@ HoE#31V.97.go
 Hands-on exercise #31 - Video .97
 
 Using the code from the previous example, delete a record from your map. Now print the map out using the “range” loop
+
+--------------------
+--------------------
+
+N. Level 5 - QUESTION: 1
+HoE#32V.103.go
+Hands-on exercise #32 - Video .103
+
+Create your own type “person” which will have an underlying type of “struct” so that it can store the following data:
+●	first name
+●	last name
+●	favorite ice cream flavors
+Create two VALUES of TYPE person. Print out the values, ranging over the elements in the slice which stores the favorite flavors. 
