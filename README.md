@@ -352,3 +352,15 @@ Create a slice of a slice of string ([][]string). Store the following data in th
 "Miss", "Moneypenny", "Helloooooo, James."
 
 Range over the records, then range over the data in each record.
+
+------------------
+
+N. Level 4 - QUESTION: 8
+HoE#29V.95.go
+Hands-on exercise #29 - Video .95
+
+Create a map with a key of TYPE string which is a person’s “last_first” name, and a value of TYPE []string which stores their favorite things. Store three records in your map. Print out all of the values, along with their index position in the slice.
+
+	`bond_james`, `Shaken, not stirred`, `Martinis`, `Women`
+`moneypenny_miss`, `James Bond`, `Literature`, `Computer Science`
+`no_dr`, `Being evil`, `Ice cream`, `Sunsets`
