@@ -372,3 +372,11 @@ HoE#30V.96.go
 Hands-on exercise #30 - Video .96
 
 Using the code from the previous example, add a record to your map. Now print the map out using the “range” loop
+
+--------------------
+
+N. Level 4 - QUESTION: 10
+HoE#31V.97.go
+Hands-on exercise #31 - Video .97
+
+Using the code from the previous example, delete a record from your map. Now print the map out using the “range” loop
