@@ -428,3 +428,11 @@ Hands-on exercise #34 - Video .105
   ○	using a composite literal, create a value of type sedan and assign values to the fields. 
 ●	Print out each of these values. 
 ●	Print out a single field from each of these values.
+
+----------------------
+
+N. Level 5 - QUESTION: 4
+HoE#35V.106.go
+Hands-on exercise #35 - Video .106
+
+Create and use an anonymous struct.
