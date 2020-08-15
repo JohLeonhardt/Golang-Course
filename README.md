@@ -398,3 +398,15 @@ Create your own type “person” which will have an underlying type of “struc
 ●	last name
 ●	favorite ice cream flavors
 Create two VALUES of TYPE person. Print out the values, ranging over the elements in the slice which stores the favorite flavors. 
+
+-------------------
+
+N. Level 5 - QUESTION: 2
+HoE#33V.104.go
+Hands-on exercise #33 - Video .104
+
+Take the code from the previous exercise, then store the values of type person in a map with the key of last name. Access each value in the map. Print out the values, ranging over the slice.
+
+----------------------
+
+
