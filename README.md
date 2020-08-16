@@ -436,3 +436,18 @@ HoE#35V.106.go
 Hands-on exercise #35 - Video .106
 
 Create and use an anonymous struct.
+
+● Store one field of the data type map.
+● And store in another field of the data type slice and then use that data printed out.
+
+---------------------
+
+N. Level 6 - QUESTION: 1
+HoE#36V.119.go
+Hands-on exercise #36 - Video .119
+
+●	Hands on exercise
+  ○	create a func with the identifier foo that returns an int
+  ○	create a func with the identifier bar that returns an int and a string
+  ○	call both funcs
+  ○	print out their results
