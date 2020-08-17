@@ -676,5 +676,13 @@ Hands-on exercise #37 - Video .120
 
   ○	returns the sum of all values of type int passed in
 
+-----------------------------
 
+N. Level 6 - QUESTION: 3
+
+HoE#38V.121.go
+
+Hands-on exercise #38 - Video .121
+
+Use the “defer” keyword to show that a deferred func runs after the func containing it exits.
 
