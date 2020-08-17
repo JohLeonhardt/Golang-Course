@@ -688,9 +688,7 @@ Use the “defer” keyword to show that a deferred func runs after the func con
 
 -----------------------------
 
-N. Level 6 - QUESTION: 4
-HoE#39V.122.go
-Hands-on exercise #39 - Video .122
+N. Level 6 - QUESTION: 4 - HoE#39V.122.go - Hands-on exercise #39 - Video .122
 
 
 ●	Create a user defined struct with 
