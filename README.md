@@ -2,11 +2,7 @@
 ------------------
 ------------------
 
-N. Level 1 - QUESTION: 1
-
-HoE#1V.34.go
-
-Hands-on exercise #1 - Video .34
+N. Level 1 - QUESTION: 1 - HoE#1V.34.go - Hands-on exercise #1 - Video .34
 
 1.	Using the short declaration operator, ASSIGN these VALUES to VARIABLES with the IDENTIFIERS “x” and “y” and “z”
 
@@ -24,11 +20,7 @@ b.	multiple print statements
 
 -----------
 
-N. Level 1 - QUESTION: 2
-
-HoE#2V.35.go
-
-Hands-on exercise #2 - Video .35
+N. Level 1 - QUESTION: 2 -  HoE#2V.35.go - Hands-on exercise #2 - Video .35
 
 1.	Use var to DECLARE three VARIABLES. The variables should have package level scope. Do not assign VALUES to the variables. Use the following IDENTIFIERS for the variables and make sure the variables are of the following TYPE (meaning they can store VALUES of that TYPE).
 
@@ -46,11 +38,7 @@ b.	The compiler assigned values to the variables. What are these values called?
 
 -------------
 
-N. Level 1 - QUESTION: 3
-
-HoE#3V.36.go
-
-Hands-on exercise #3 - Video .36
+N. Level 1 - QUESTION: 3 -  HoE#3V.36.go - Hands-on exercise #3 - Video .36
 
 Using the code from the previous exercise,
 
@@ -70,11 +58,7 @@ b.	print out the value stored by variable “s”
 
 ---------------
 
-N. Level 1 - QUESTION: 4
-
-HoE#4V.37.go
-
-Hands-on exercise #4 - Video .37
+N. Level 1 - QUESTION: 4 - HoE#4V.37.go - Hands-on exercise #4 - Video .37
 
 ●	FYI - nice documentation and new terminology “underlying type”
 
@@ -98,11 +82,7 @@ d.	print out the value of the variable “x”
 
 ---------------
 
-N. Level 1 - QUESTION: 5
-
-HoE#5V.38.go
-
-Hands-on exercise #5 - Video .38
+N. Level 1 - QUESTION: 5 - HoE#5V.38.go - Hands-on exercise #5 - Video .38
 
 Building on the code from the previous example
 
@@ -140,21 +120,13 @@ Building on the code from the previous example
 ------------------
 ------------------
 
-N. Level 2 - QUESTION: 1
-
-HoE#6V.48.go
-
-Hands-on exercise #6 - Video .48
+N. Level 2 - QUESTION: 1 - HoE#6V.48.go - Hands-on exercise #6 - Video .48
 
 Write a program that prints a number in decimal, binary, and hex
 
 --------------
 
-N. Level 2 - QUESTION: 2
-
-HoE#7V.49.go
-
-Hands-on exercise #7 - Video .49
+N. Level 2 - QUESTION: 2 - HoE#7V.49.go - Hands-on exercise #7 - Video .49
 
 Using the following operators, write expressions and assign their values to variables:
 
@@ -174,11 +146,7 @@ Now print each of the variables.
 
 ---------------------
 
-N. Level 2 - QUESTION: 3
-
-HoE#8V.50.go
-
-Hands-on exercise #8 - Video .50
+N. Level 2 - QUESTION: 3 - HoE#8V.50.go - Hands-on exercise #8 - Video .50
 
 Create TYPED and UNTYPED constants. Print the values of the constants.
 
@@ -197,11 +165,7 @@ Explanations:
 
 -----------------------
 
-N. Level 2 - QUESTION: 4
-
-HoE#9V.51.go
-
-Hands-on exercise #9 - Video .51
+N. Level 2 - QUESTION: 4 - HoE#9V.51.go - Hands-on exercise #9 - Video .51
 
 Write a program that 
 
@@ -215,42 +179,26 @@ Write a program that
 
 --------------------
 
-N. Level 2 - QUESTION: 5
-
-HoE#10V.52.go
-
-Hands-on exercise #10 - Video .52
+N. Level 2 - QUESTION: 5 - HoE#10V.52.go - Hands-on exercise #10 - Video .52
 
 Create a variable of type string using a raw string literal. Print it.
 
 ---------------------
 
-N. Level 2 - QUESTION: 6
-
-HoE#11V.53.go
-
-Hands-on exercise #11 - Video .53
+N. Level 2 - QUESTION: 6 - HoE#11V.53.go - Hands-on exercise #11 - Video .53
 
 Using iota, create 4 constants for the NEXT 4 years. Print the constant values.
 
 ----------------------
 ----------------------
 
-N. Level 3 - QUESTION: 1
-
-HoE#12V.67.go
-
-Hands-on exercise #12 - Video .67
+N. Level 3 - QUESTION: 1 - HoE#12V.67.go - Hands-on exercise #12 - Video .67
 
 Print every number from 1 to 10,000
 
 ----------------------
 
-N. Level 3 - QUESTION: 2
-
-HoE#13V.68.go
-
-Hands-on exercise #13 - Video .68
+N. Level 3 - QUESTION: 2 - HoE#13V.68.go - Hands-on exercise #13 - Video .68
 
 Print every rune code point of the uppercase alphabet three times. Your output should look like this:
 
@@ -274,11 +222,7 @@ Print every rune code point of the uppercase alphabet three times. Your output s
 
  ------------------
 
-N. Level 3 - QUESTION: 3
-
-HoE#14V.69.go
-
-Hands-on exercise #14 - Video .69
+N. Level 3 - QUESTION: 3 - HoE#14V.69.go - Hands-on exercise #14 - Video .69
 
  Create a for loop using this syntax
 
@@ -288,11 +232,7 @@ Have it print out the years you have been alive.
 
 -------------------
 
-N. Level 3 - QUESTION: 4
-
-HoE#15V.70.go
-
-Hands-on exercise #15 - Video .70
+N. Level 3 - QUESTION: 4 - HoE#15V.70.go - Hands-on exercise #15 - Video .70
 
 Create a for loop using this syntax
 
@@ -302,61 +242,37 @@ Have it print out the years you have been alive.
 
 ---------------------
 
-N. Level 3 - QUESTION: 5
-
-HoE#16V.71.go
-
-Hands-on exercise #16 - Video .71
+N. Level 3 - QUESTION: 5 - HoE#16V.71.go - Hands-on exercise #16 - Video .71
 
 Print out the remainder (modulus) which is found for each number between 10 and 100 when it is divided by 4.
 
 --------------------
 
-N. Level 3 - QUESTION: 6
-
-HoE#17V.72.go
-
-Hands-on exercise #17 - Video .72
+N. Level 3 - QUESTION: 6 - HoE#17V.72.go - Hands-on exercise #17 - Video .72
 
 Create a program that shows the “if statement” in action.
 
 --------------------
 
-N. Level 3 - QUESTION: 7
-
-HoE#18V.73.go
-
-Hands-on exercise #18 - Video .73
+N. Level 3 - QUESTION: 7 - HoE#18V.73.go - Hands-on exercise #18 - Video .73
 
 Building on the previous hands-on exercise, create a program that uses “else if” and “else”.
 
 --------------------
 
-N. Level 3 - QUESTION: 8
-
-HoE#19V.74.go
-
-Hands-on exercise #19 - Video .74
+N. Level 3 - QUESTION: 8 - HoE#19V.74.go - Hands-on exercise #19 - Video .74
 
 Create a program that uses a switch statement with no switch expression specified.
 
 -------------------
 
-N. Level 3 - QUESTION: 9
-
-HoE#20V.75.go
-
-Hands-on exercise #20 - Video .75
+N. Level 3 - QUESTION: 9 - HoE#20V.75.go - Hands-on exercise #20 - Video .75
 
 Create a program that uses a switch statement with the switch expression specified as a variable of TYPE string with the IDENTIFIER “favSport”
 
 --------------------
 
-N. Level 3 - QUESTION: 10
-
-HoE#21V.76.go
-
-Hands-on exercise #21 - Video .76
+N. Level 3 - QUESTION: 10 - HoE#21V.76.go - Hands-on exercise #21 - Video .76
 
 Write down what these print:
 
@@ -373,11 +289,7 @@ Write down what these print:
 -------------------
 -------------------
 
-N. Level 4 - QUESTION: 1
-
-HoE#22V.88.go
-
-Hands-on exercise #22 - Video .88
+N. Level 4 - QUESTION: 1 - HoE#22V.88.go - Hands-on exercise #22 - Video .88
 
 ●	Using a COMPOSITE LITERAL: 
 
@@ -393,11 +305,7 @@ Hands-on exercise #22 - Video .88
 
 ---------------------
 
-N. Level 4 - QUESTION: 2
-
-HoE#23V.89.go
-
-Hands-on exercise #23 - Video .89
+N. Level 4 - QUESTION: 2 - HoE#23V.89.go - Hands-on exercise #23 - Video .89
 
 ●	Using a COMPOSITE LITERAL: 
 
@@ -413,11 +321,7 @@ Hands-on exercise #23 - Video .89
 
 ---------------------
 
-N. Level 4 - QUESTION: 3
-
-HoE#24V.90.go
-
-Hands-on exercise #24 - Video .90
+N. Level 4 - QUESTION: 3 - HoE#24V.90.go - Hands-on exercise #24 - Video .90
 
 Using the code from the previous example, use SLICING to create the following new slices which are then printed:
 
@@ -431,11 +335,7 @@ Using the code from the previous example, use SLICING to create the following ne
 
 ---------------------
 
-N. Level 4 - QUESTION: 4
-
-HoE#25V.91.go
-
-Hands-on exercise #25 - Video .91
+N. Level 4 - QUESTION: 4 - HoE#25V.91.go - Hands-on exercise #25 - Video .91
 
 Follow these steps:
 
@@ -467,11 +367,7 @@ Follow these steps:
 
 ---------------------
 
-N. Level 4 - QUESTION: 5
-
-HoE#26V.92.go
-
-Hands-on exercise #26 - Video .92
+N. Level 4 - QUESTION: 5 - HoE#26V.92.go - Hands-on exercise #26 - Video .92
 
 To DELETE from a slice, we use APPEND along with SLICING. For this hands-on exercise, follow these steps:
 
@@ -487,11 +383,7 @@ NOTE: This "y" is not in the correct solution not sure why. Also he added anothe
 
 ----------------------
 
-N. Level 4 - QUESTION: 6
-
-HoE#27V.93.go
-
-Hands-on exercise #27 - Video .93
+N. Level 4 - QUESTION: 6 - HoE#27V.93.go - Hands-on exercise #27 - Video .93
 
 ● Create a slice to store the names of all of the states in the United States of America. 
 
@@ -507,11 +399,7 @@ Here is a list of the states:
 
 ----------------------
 
-N. Level 4 - QUESTION: 7
-
-HoE#28V.94.go
-
-Hands-on exercise #28 - Video .94
+N. Level 4 - QUESTION: 7 - HoE#28V.94.go - Hands-on exercise #28 - Video .94
 
 Create a slice of a slice of string ([][]string). Store the following data in the multi-dimensional slice:
 
@@ -522,11 +410,7 @@ Range over the records, then range over the data in each record.
 
 ------------------
 
-N. Level 4 - QUESTION: 8
-
-HoE#29V.95.go
-
-Hands-on exercise #29 - Video .95
+N. Level 4 - QUESTION: 8 - HoE#29V.95.go - Hands-on exercise #29 - Video .95
 
 Create a map with a key of TYPE string which is a person’s “last_first” name, and a value of TYPE []string which stores their favorite things. Store three records in your map. Print out all of the values, along with their index position in the slice.
 
@@ -537,32 +421,20 @@ Create a map with a key of TYPE string which is a person’s “last_first” na
 
 --------------------
 
-N. Level 4 - QUESTION: 9
-
-HoE#30V.96.go
-
-Hands-on exercise #30 - Video .96
+N. Level 4 - QUESTION: 9 - HoE#30V.96.go - Hands-on exercise #30 - Video .96
 
 Using the code from the previous example, add a record to your map. Now print the map out using the “range” loop
 
 --------------------
 
-N. Level 4 - QUESTION: 10
-
-HoE#31V.97.go
-
-Hands-on exercise #31 - Video .97
+N. Level 4 - QUESTION: 10 - HoE#31V.97.go - Hands-on exercise #31 - Video .97
 
 Using the code from the previous example, delete a record from your map. Now print the map out using the “range” loop
 
 --------------------
 --------------------
 
-N. Level 5 - QUESTION: 1
-
-HoE#32V.103.go
-
-Hands-on exercise #32 - Video .103
+N. Level 5 - QUESTION: 1 - HoE#32V.103.go - Hands-on exercise #32 - Video .103
 
 Create your own type “person” which will have an underlying type of “struct” so that it can store the following data:
 
@@ -576,21 +448,13 @@ Create two VALUES of TYPE person. Print out the values, ranging over the element
 
 -------------------
 
-N. Level 5 - QUESTION: 2
-
-HoE#33V.104.go
-
-Hands-on exercise #33 - Video .104
+N. Level 5 - QUESTION: 2 - HoE#33V.104.go - Hands-on exercise #33 - Video .104
 
 Take the code from the previous exercise, then store the values of type person in a map with the key of last name. Access each value in the map. Print out the values, ranging over the slice.
 
 ----------------------
 
-N. Level 5 - QUESTION: 3
-
-HoE#34V.105.go
-
-Hands-on exercise #34 - Video .105
+N. Level 5 - QUESTION: 3 - HoE#34V.105.go - Hands-on exercise #34 - Video .105
 
 ●	Create a new type: vehicle. 
 
@@ -624,11 +488,7 @@ Hands-on exercise #34 - Video .105
 
 ----------------------
 
-N. Level 5 - QUESTION: 4
-
-HoE#35V.106.go
-
-Hands-on exercise #35 - Video .106
+N. Level 5 - QUESTION: 4 - HoE#35V.106.go - Hands-on exercise #35 - Video .106
 
 Create and use an anonymous struct.
 
@@ -638,11 +498,7 @@ Create and use an anonymous struct.
 
 ---------------------
 
-N. Level 6 - QUESTION: 1
-
-HoE#36V.119.go
-
-Hands-on exercise #36 - Video .119
+N. Level 6 - QUESTION: 1 - HoE#36V.119.go - Hands-on exercise #36 - Video .119
 
 ●	Hands on exercise
 
@@ -656,11 +512,7 @@ Hands-on exercise #36 - Video .119
 
 ---------------------
 
-N. Level 6 - QUESTION: 2
-
-HoE#37V.120.go
-
-Hands-on exercise #37 - Video .120
+N. Level 6 - QUESTION: 2 - HoE#37V.120.go - Hands-on exercise #37 - Video .120
 
 ●	create a func with the identifier foo that 
 
@@ -678,11 +530,7 @@ Hands-on exercise #37 - Video .120
 
 -----------------------------
 
-N. Level 6 - QUESTION: 3
-
-HoE#38V.121.go
-
-Hands-on exercise #38 - Video .121
+N. Level 6 - QUESTION: 3 - HoE#38V.121.go - Hands-on exercise #38 - Video .121
 
 Use the “defer” keyword to show that a deferred func runs after the func containing it exits.
 
