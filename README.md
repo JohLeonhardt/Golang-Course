@@ -538,7 +538,6 @@ Use the “defer” keyword to show that a deferred func runs after the func con
 
 N. Level 6 - QUESTION: 4 - HoE#39V.122.go - Hands-on exercise #39 - Video .122
 
-
 ●	Create a user defined struct with 
 
   ○	the identifier “person”
@@ -560,3 +559,31 @@ N. Level 6 - QUESTION: 4 - HoE#39V.122.go - Hands-on exercise #39 - Video .122
 ●	create a value of type person
 
 ●	call the method from the value of type person
+
+-----------------------------
+
+N. Level 6 - QUESTION: 5 - HoE#40V.123.go - Hands-on exercise #40 - Video .123
+
+●	create a type SQUARE
+
+●	create a type CIRCLE
+
+●	attach a method to each that calculates AREA and returns it
+
+  ○	circle area= π r 2
+
+  ○	square area = L * W
+
+●	create a type SHAPE that defines an interface as anything that has the AREA method
+
+●	create a func INFO which takes type shape and then prints the area
+
+●	create a value of type square
+
+●	create a value of type circle
+
+●	use func info to print the area of square
+
+●	use func info to print the area of circle
+
+---
