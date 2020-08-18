@@ -586,4 +586,8 @@ N. Level 6 - QUESTION: 5 - HoE#40V.123.go - Hands-on exercise #40 - Video .123
 
 ●	use func info to print the area of circle
 
----
+-----------------------------
+
+N. Level 6 - QUESTION: 6 - HoE#41V.124.go - Hands-on exercise #41 - Video .124
+
+●	Build and use an anonymous func 
