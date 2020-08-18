@@ -591,3 +591,9 @@ N. Level 6 - QUESTION: 5 - HoE#40V.123.go - Hands-on exercise #40 - Video .123
 N. Level 6 - QUESTION: 6 - HoE#41V.124.go - Hands-on exercise #41 - Video .124
 
 ●	Build and use an anonymous func 
+
+-----------------------------
+
+N. Level 6 - QUESTION: 7 - HoE#42V.125.go - Hands-on exercise #42 - Video .125
+
+●	Assign a func to a variable, then call that func
