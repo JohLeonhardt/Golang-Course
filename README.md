@@ -616,3 +616,8 @@ A “callback” is when we pass a func into a func as an argument. For this exe
 
 ●	pass a func into a func as an argument 
 
+-----------------------------
+
+N. Level 6 - QUESTION: 10 - HoE#45V.128.go - Hands-on exercise #45 - Video .128
+
+Closure is when we have “enclosed” the scope of a variable in some code block. For this hands-on exercise, create a func which “encloses” the scope of a variable:
