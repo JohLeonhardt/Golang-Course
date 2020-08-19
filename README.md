@@ -597,3 +597,13 @@ N. Level 6 - QUESTION: 6 - HoE#41V.124.go - Hands-on exercise #41 - Video .124
 N. Level 6 - QUESTION: 7 - HoE#42V.125.go - Hands-on exercise #42 - Video .125
 
 ●	Assign a func to a variable, then call that func
+
+-----------------------------
+
+N. Level 6 - QUESTION: 8 - HoE#43V.126.go - Hands-on exercise #43 - Video .126
+
+●	Create a func which returns a func
+
+●	assign the returned func to a variable
+
+●	call the returned func
