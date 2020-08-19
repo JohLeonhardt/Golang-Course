@@ -607,3 +607,12 @@ N. Level 6 - QUESTION: 8 - HoE#43V.126.go - Hands-on exercise #43 - Video .126
 ●	assign the returned func to a variable
 
 ●	call the returned func
+
+-----------------------------
+
+N. Level 6 - QUESTION: 9 - HoE#44V.127.go - Hands-on exercise #44 - Video .127
+
+A “callback” is when we pass a func into a func as an argument. For this exercise, 
+
+●	pass a func into a func as an argument 
+
