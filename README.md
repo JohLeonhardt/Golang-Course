@@ -623,9 +623,47 @@ N. Level 6 - QUESTION: 10 - HoE#45V.128.go - Hands-on exercise #45 - Video .128
 Closure is when we have “enclosed” the scope of a variable in some code block. For this hands-on exercise, create a func which “encloses” the scope of a variable:
 
 -----------------------------
+-----------------------------
 
 N. Level 7 - QUESTION: 1 - HoE#46V.133.go - Hands-on exercise #46 - Video .133
 
 ●	Create a value and assign it to a variable. 
 
 ●	Print the address of that value.
+
+-----------------------------
+
+N. Level 7 - QUESTION: 2 - HoE#47V.134.go - Hands-on exercise #47 - Video .134
+
+●	create a person struct
+
+●	create a func called “changeMe” with a *person as a parameter
+
+  ○	change the value stored at the *person address
+
+    ■	important
+
+●	to dereference a struct, use (*value).field 
+
+  ○	p1.first
+
+  ○	(*p1).first
+
+●	“As an exception, if the type of x is a named pointer type and (*x).f is a valid selector expression denoting a field (but not a method), x.f is shorthand for (*x).f.”
+
+  ○	https://golang.org/ref/spec#Selectors 
+
+●	create a value of type person
+  
+  ○	print out the value
+
+●	in func main
+
+  ○	call “changeMe”
+
+●	in func main
+  
+  ○	print out the value
+
+-----------------------------
+-----------------------------
