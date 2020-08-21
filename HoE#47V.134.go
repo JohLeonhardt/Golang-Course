@@ -18,5 +18,5 @@ func main() {
 }
 func changeMe(p *person) {
 	p.name = "Miss Moneypenny"
-	//(*p).name = "Miss Moneyp"
+
 }
