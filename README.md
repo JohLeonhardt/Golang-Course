@@ -667,3 +667,13 @@ N. Level 7 - QUESTION: 2 - HoE#47V.134.go - Hands-on exercise #47 - Video .134
 
 -----------------------------
 -----------------------------
+
+N. Level 8 - QUESTION: 1 - HoE#48V.142.go - Hands-on exercise #48 - Video .142
+
+Starting with this code (click on link), marshal the []user to JSON. There is a little bit of a curve ball in this hands-on exercise - remember to ask yourself what you need to do to EXPORT a value from a package.
+
+-----------------------------
+
+N. Level 8 - QUESTION: 2 - HoE#49V.143.go - Hands-on exercise #49 - Video .143
+
+Starting with this code (click on link), unmarshal the JSON into a Go data structure. Hint: https://mholt.github.io/json-to-go/ 
