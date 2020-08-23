@@ -683,3 +683,9 @@ Starting with this code (click on link), unmarshal the JSON into a Go data struc
 N. Level 8 - QUESTION: 3 - HoE#50V.144.go - Hands-on exercise #50 - Video .144
 
 Starting with this code(link), encode to JSON the []user sending the results to Stdout. Hint: you will need to use json.NewEncoder(os.Stdout).encode(v interface{})
+
+-----------------------------
+
+N. Level 8 - QUESTION: 4 - HoE#51V.145.go - Hands-on exercise #51 - Video .145
+
+Starting with this code (link), sort the []int and []string for each person.
