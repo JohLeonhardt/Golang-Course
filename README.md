@@ -677,3 +677,9 @@ Starting with this code (click on link), marshal the []user to JSON. There is a 
 N. Level 8 - QUESTION: 2 - HoE#49V.143.go - Hands-on exercise #49 - Video .143
 
 Starting with this code (click on link), unmarshal the JSON into a Go data structure. Hint: https://mholt.github.io/json-to-go/ 
+
+-----------------------------
+
+N. Level 8 - QUESTION: 3 - HoE#50V.144.go - Hands-on exercise #50 - Video .144
+
+Starting with this code(link), encode to JSON the []user sending the results to Stdout. Hint: you will need to use json.NewEncoder(os.Stdout).encode(v interface{})
