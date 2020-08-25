@@ -689,3 +689,18 @@ Starting with this code(link), encode to JSON the []user sending the results to 
 N. Level 8 - QUESTION: 4 - HoE#51V.145.go - Hands-on exercise #51 - Video .145
 
 Starting with this code (link), sort the []int and []string for each person.
+
+-----------------------------
+
+N. Level 8 - QUESTION: 5 - HoE#52V.146.go - Hands-on exercise #52 - Video .146
+
+Starting with this code (link), sort the []user by 
+
+●	age
+
+●	last
+
+Also sort each []string “Sayings” for each user 
+
+●	print everything in a way that is pleasant
+
