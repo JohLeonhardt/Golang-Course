@@ -16,16 +16,16 @@ func main() {
 	var wg sync.WaitGroup
 	wg.Add(gs)
 
-	var mu sync.Mutex
+	var mu sync.Mutex // NEW
 
 	for i := 0; i < gs; i++ {
 		go func() {
-			mu.Lock()
+			mu.Lock() // NEW
 			v := counter
 			runtime.Gosched()
 			v++
 			counter = v
-			mu.Unlock()
+			mu.Unlock() // NEW
 			wg.Done()
 		}()
 		fmt.Println("Goroutines:", runtime.NumGoroutine())
