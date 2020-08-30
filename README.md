@@ -704,3 +704,13 @@ Also sort each []string “Sayings” for each user
 
 ●	print everything in a way that is pleasant
 
+-----------------------------
+-----------------------------
+
+N. Level 9 - QUESTION: 1 - HoE#53V.154.go - Hands-on exercise #53 - Video .154
+
+●	in addition to the main goroutine, launch two additional goroutines
+
+  ○	each additional goroutine should print something out
+
+●	use waitgroups to make sure each goroutine finishes before your program exists
